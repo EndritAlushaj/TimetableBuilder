@@ -5,9 +5,6 @@ from tkinter import ttk
 from tkinter import messagebox
 from tkinter import filedialog
 
-#Required Path
-# C:\Users\...
-
 # Application class
 class Project:
 
